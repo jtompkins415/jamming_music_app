@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": 1,
+        "title": "Looking For Love",
+        "artist": "Disclosure",
+        "album": "Alchemy"
+    },
+    {
+        "id": 2,
+        "title": "Higher",
+        "artist": "Big Sean",
+        "album": "Detroit"
+    },
+    {
+        "id": 3,
+        "title": "Down In Atlanta",
+        "artist": "Pharrell Williams & Travis Scott",
+        "album": "Down In Atlanta - Single"
+    },
+    {
+        "id": 4,
+        "title": "Fading",
+        "artist": "Toro y Moi",
+        "album": "Outer Peace"
+    },
+    {
+        "id": 5,
+        "title": "EARFQUAKE",
+        "artist": "Tyler, The Creator",
+        "album": "IGOR"
+    },
+    {
+        "id": 6,
+        "title": "Them Changes",
+        "artist": "Thundercat",
+        "album": "The Beyond/Where the Giants Roam"
+    }
+]
